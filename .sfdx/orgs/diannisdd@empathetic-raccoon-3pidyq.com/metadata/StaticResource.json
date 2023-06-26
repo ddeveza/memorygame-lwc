@@ -1,0 +1,45 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055h000005ksgEAAQ",
+      "createdByName": "Dennis Deveza",
+      "createdDate": "2022-10-10T20:25:33.000Z",
+      "fileName": "staticresources/trlhdtips__tt_penpal.resource",
+      "fullName": "trlhdtips__tt_penpal",
+      "id": "0815h000002B96KAAS",
+      "lastModifiedById": "0055h000005ksgEAAQ",
+      "lastModifiedByName": "Dennis Deveza",
+      "lastModifiedDate": "2022-10-10T20:25:33.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0055h000005ksgEAAQ",
+      "createdByName": "Dennis Deveza",
+      "createdDate": "2023-06-08T03:31:45.000Z",
+      "fileName": "staticresources/tailwind.resource",
+      "fullName": "tailwind",
+      "id": "0815h000000iiGMAAY",
+      "lastModifiedById": "0055h000005ksgEAAQ",
+      "lastModifiedByName": "Dennis Deveza",
+      "lastModifiedDate": "2023-06-08T03:31:45.000Z",
+      "manageableState": "unmanaged",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0055h000005ksgEAAQ",
+      "createdByName": "Dennis Deveza",
+      "createdDate": "2023-06-26T02:12:08.000Z",
+      "fileName": "staticresources/fontawesome.resource",
+      "fullName": "fontawesome",
+      "id": "0815h000000iiUJAAY",
+      "lastModifiedById": "0055h000005ksgEAAQ",
+      "lastModifiedByName": "Dennis Deveza",
+      "lastModifiedDate": "2023-06-26T02:12:08.000Z",
+      "manageableState": "unmanaged",
+      "type": "StaticResource"
+    }
+  ]
+}
